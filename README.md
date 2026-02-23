@@ -1,2 +1,4 @@
-# Manuel_Creux_ISLA2026
-Github repository for ISLA 2026
+# Repository for team 7 from Isabella's group
+
+Member 1 : Manuel Creux
+
